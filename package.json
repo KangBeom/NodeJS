@@ -1,0 +1,23 @@
+{
+  "name": "kangbeom",
+  "version": "1.0.0",
+  "description": "code from\r http://www.nodebeginner.org/index-kr.html",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KangBeom/NodeJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KangBeom/NodeJS/issues"
+  },
+  "dependencies": {
+	"formidable": "*"
+  },
+  "homepage": "https://github.com/KangBeom/NodeJS#readme"
+}
